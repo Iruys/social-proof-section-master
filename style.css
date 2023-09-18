@@ -160,4 +160,15 @@ grid-template-columns: repeat(2,1fr);
       gap: 10px;
       display: grid;
   }
+  .card .top-side .star .img img{
+    margin-bottom: 6px;
+  }
+  .card .top-side .star {
+    display: block;
+    align-items: center;
+    gap: 10px;
+    background-color: var(--light-grayish-magenta);
+    padding: 15px;
+    border-radius: 3px;
+}
 }
