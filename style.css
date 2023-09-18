@@ -71,11 +71,11 @@ grid-template-columns: repeat(2,1fr);
     max-width: 70%;
   }
   .card .right-side .rated2{
-   margin-left: 20px;
+   margin-left: 43px;
    max-width: 80%;
   }
   .card .right-side .rated3{
-    margin-left: 40px;
+    margin-left: 88px;
     max-width: 90%;
    }
 
